@@ -1,0 +1,28 @@
+html, body {
+	height: 100%;
+	width: 100%
+}
+
+.header {
+	height: 100px;
+	width: 100%;
+	background: #444444;
+}
+
+.middle {
+	height: 70%;
+	width: 85%;
+	background: #EFEFEF;
+	margin: 0 auto;
+}
+
+.bottom {
+	height: 100px;
+	width: 85%;
+	background: #444444;
+	margin: 0 auto;
+}
+
+.background {
+	background-color: #D8D8D8;
+}
